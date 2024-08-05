@@ -1,2 +1,2 @@
 # Avaliando o preço de automóveis
-Julgar se um carro será vendido pelo preço que foi ofertado segundo parâmetros de idade e quilometragem.
+Julgar se um carro será vendido pelo preço que foi ofertado segundo parâmetros de idade e quilometragem. Na primeira parte focamos na validação do modelo e na segunda parte na otimização do modelo.
